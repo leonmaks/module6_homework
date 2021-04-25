@@ -1,0 +1,14 @@
+{
+  "name": "js_intro",
+  "version": "1.0.0",
+  "scripts": {
+    "dev-01": "nodemon src/task_01.ts",
+    "run-01": "ts-node src/task_01.ts"
+  },
+  "author": "Le Ma",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^14.14.41"
+  }
+}
