@@ -7,10 +7,10 @@ const
   X = 2,
   N = 3
 
-const power = (x: number, n: number): number => {
+const powerFunc = (x: number, n: number): number => {
   let result = 1
   for (let i = 0; i < n; i++) result *= x
   return result
 }
 
-console.log(`${X}^${N}=`, power(X, N))
+console.log(`${X}^${N}=`, powerFunc(X, N))
