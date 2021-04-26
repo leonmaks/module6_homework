@@ -9,7 +9,9 @@
     "dev-03": "nodemon src/task_03.ts",
     "run-03": "ts-node src/task_03.ts",
     "dev-04": "nodemon src/task_04.ts",
-    "run-04": "ts-node src/task_04.ts"
+    "run-04": "ts-node src/task_04.ts",
+    "dev-05": "nodemon src/task_05.ts",
+    "run-05": "ts-node src/task_05.ts"
   },
   "author": "Le Ma",
   "license": "Apache-2.0",
